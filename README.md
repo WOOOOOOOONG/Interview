@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=주니어개발자%인터뷰준비&fontSize=40)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=주니어개발자인터뷰준비!&fontSize=40)
 
 
 # Interview
