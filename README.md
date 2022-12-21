@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=150&section=header&text=주니어 개발자 인터뷰&fontSize=25)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 # Interview
 
 매일 조금씩 업데이트 될 예정입니다.
