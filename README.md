@@ -4,7 +4,7 @@
 <a href="https://readerr.tistory.com/86">블로그</a>와 같이 업데이트 할 예정이예요
 
 # 기술 면접
-### * CS
+### ■CS
 ### 자료구조
 1. Array vs LinkedList
 2. Stack & Queue
