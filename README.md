@@ -5,13 +5,16 @@
 
 # 기술 면접
 ### ■ CS
+
 ### ■ 자료구조
 1. Array vs LinkedList
 2. Stack & Queue
 3. Tree
 4. Hash
 5. Graph
+
 ### ■ 알고리즘
+
 ### ■ 언어
 1. Java
 2. C
@@ -19,7 +22,9 @@
 4. Python
 5. Javascript
 ### ■ DB
+
 ### ■ Web
+
 ### ■ 신기술 동향
 
 # 인성 면접
