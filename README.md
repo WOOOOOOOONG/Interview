@@ -1,49 +1,34 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=주니어개발자%20인터뷰준비&fontSize=50)
+# 참고
+https://gyoogle.dev/blog/interview/
+(해당 저장소에 정리가 너무나 잘 되어 있기 때문에, '위 저장소 내용+alpha' 또는 몇가지를 내가 원하는 표현으로 바꾸어 기록하는 용도의 저장소)
 
-매일 조금씩 업데이트 될 예정입니다.
-<a href="https://readerr.tistory.com/86">블로그</a>와 같이 업데이트 할 예정이예요
+# 운영체제
+## 인터럽트
+### 처리 순서
+### 우선순위
 
-# 기술 면접
-### ■ CS
-1. 하드웨어
-2. 운영체제
-3. 네트워크
+## 스케줄링
+### 비선점 스케줄링
+### 선점 스케줄링
 
-### ■ 자료구조
-1. Array vs LinkedList
-2. Stack & Queue
-3. Tree
-4. Hash
-5. Graph
+# 네트워크
+### DNS Round Robin 방식
+### 웹 통신 전체적인 흐름
 
-### ■ 알고리즘
-1. 빅오 표기법
-2. 공간, 시간 복잡도
-3. 정렬 알고리즘
-4. 탐색 알고리즘
-5. DFS
-6. BFS
+# DB
+### Key
+### Join
+### SQL Injection
+### Transaction
+### Statement vs PreparedStatement
+### NoSQL
+### Stored Procedure
 
-### ■ 언어
-1. Java
-2. C
-3. C++
-4. Python
-5. Javascript
-
-### ■ DB
-
-
-### ■ Web
-
-### ■ 신기술 동향
-
-# 인성 면접
-
-# 경험 질문
-
-
-
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+# Web
+### Browser 동작 방식
+### HTTP Request Method
+### REST API
+### 쿠키 & 세션
+### 크로스 브라우징
+### Vue.js & React
+### CSRF & XSS
