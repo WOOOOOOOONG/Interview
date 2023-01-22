@@ -24,6 +24,7 @@ https://gyoogle.dev/blog/interview/
 5. 프로그램 검사
 6. SVC(SuperVisor Call)
 
+
 ## 스케줄링
 언제 어떤 프로세스에 CPU를 할당하는지 결정하는 작업을 CPU 스케줄링이라 하며, 종류로는 크게 선점/비선점 스케줄링이 존재한다.
 ### 비선점 스케줄링
